@@ -14,7 +14,11 @@ Always write a clear log message for your commits. One-line messages are fine fo
     
 ## Coding conventions
 
-We optimize for readability:
+These conventions are generally for Python, but the principles hold accross R and other programming languages that may be used during the project.
 
+We optimize for readability by adhering to the following:
+
+* Use 4 spaces for indentation
 * ...
-* ...
+* ... 
+* ... For more conventions, refer to the [PEP8](https://www.python.org/dev/peps/pep-0008/) style guide
