@@ -20,7 +20,7 @@ See also the list of [contributors](https://www.scienceofintelligence.de/researc
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on  code conventions, and the process for submitting changes via pull requests.
+Please read [CONTRIBUTING.md](https://github.com/vincejstraub/developing-exploration-behavior/blob/main/.github/CONTRIBUTING.md) for details on  code conventions, and the process for submitting changes via pull requests.
 
 ## License
 
