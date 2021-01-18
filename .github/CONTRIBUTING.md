@@ -14,13 +14,12 @@ Always write a clear log message for your commits. One-line messages are fine fo
     
 ## Git and GitHub conventions
 
-* **Branch naming convention**
+**Branch naming convention**
 
-Naming convention: _name/feature_. E.g. if Alice were to create a branch to update a Kalman filtering algorithm, Alice would call it: _alice/kalman-filter_
+* Naming convention: _name/feature_. E.g. if Alice were to create a branch to update a Kalman filtering algorithm, Alice would call it: _alice/kalman-filter_
 
+**...**
 * ... 
-
-* ...
 
 ## Coding conventions
 
