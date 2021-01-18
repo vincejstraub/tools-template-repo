@@ -4,12 +4,14 @@ This repository contains code and data to support the project [Developing explor
 
 This repository is currently private and being used to store data and code for pre-processing and preliminary analysis tasks. In future it may be used to share data and code open-access.
 
+## Installation and Setup
+
+If you are new to Git and GitHub, see [Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github) and [Using Git and GitHub for Team Collaboration](https://medium.com/anne-kerrs-blog/using-git-and-github-for-team-collaboration-e761e7c00281). 
+
 ## Getting Started
 
 * ...
 * ...
-
-If you are new to GitHub, see also [Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github) and [Using Git and GitHub for Team Collaboration](https://medium.com/anne-kerrs-blog/using-git-and-github-for-team-collaboration-e761e7c00281). 
 
 ## Maintenance
 
