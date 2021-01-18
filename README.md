@@ -2,7 +2,7 @@
 
 This repository contains code and data to support the project [Developing exploration behavior](https://www.scienceofintelligence.de/research/researchprojects/project_21/), part of the [Science of Intelligence](https://www.scienceofintelligence.de/) (SCIoI) research cluster. The project aims to track genetically identical individuals from day 1 of their life to understand the development of intelligent behavior. A specific aim is to produce synthetic artifacts (algorithms and computer simulations) and a deeper understanding of how newborn biological organisms develop intelligent behavior. 
 
-This repository is currently private and being used to store data and code for pre-processing and preliminary analysis tasks. In future it may be used to share data and novel algorithms open-access.
+This repository is currently private and being used to store data and code for pre-processing and preliminary analysis tasks. In future it may be used to share data and code open-access.
 
 ## Getting Started
 
