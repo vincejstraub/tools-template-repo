@@ -9,7 +9,7 @@ This repository is currently private and being used to store data and code for p
 If you are new to Git and GitHub, see [Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github) and [Using Git and GitHub for Team Collaboration](https://medium.com/anne-kerrs-blog/using-git-and-github-for-team-collaboration-e761e7c00281). 
 
 ## Getting Started
-To start using the code and data in this repo, you should know that:
+To start using the code and data in this repo:
 
 * ...
 * ...
