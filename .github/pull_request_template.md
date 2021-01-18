@@ -17,11 +17,14 @@
 - [ ] Other (please describe):
 
 **Purpose of the pull request**
-Provide additional information about the problem or feature in addition to the new behavior created.
+
+A description of the changes proposed in the pull request.
 
 **Materials used to solve problem (Optional)**
+
 Provide links to blog posts, libraries or addons used to solve this problem
 - [How to Pull Request](https://github.com/flexyford/pull-request) Github Repo with Learning focused Pull Request Template.
 
 **Additional context (Optional)**
+
 Add any other context about the problem here.
