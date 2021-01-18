@@ -7,7 +7,7 @@ This repository is currently private and being used to store data and code for p
 ## Getting Started
 
 * [Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github)
-* ...
+* [Using Git and GitHub for Team Collaboration](https://medium.com/anne-kerrs-blog/using-git-and-github-for-team-collaboration-e761e7c00281)
 * ... 
 
 ## Maintenance
