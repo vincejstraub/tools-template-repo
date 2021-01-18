@@ -12,6 +12,13 @@ Always write a clear log message for your commits. One-line messages are fine fo
     > 
     > A paragraph describing what changed and its impact."
     
+## Git and GitHub conventions
+
+**Branch naming convention**
+
+Naming convention: _name/feature_. E.g. if Alice were to create a branch to update a Kalman filtering algorithm, Alice would call it: _alice/kalman-filter_
+
+
 ## Coding conventions
 
 These conventions are generally for Python, but the principles hold accross R and other programming languages that may be used during the project.
