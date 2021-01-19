@@ -23,7 +23,7 @@ To start using the code and data in this repo:
 * ...
 * ...
 
-See also the list of [contributors](https://www.scienceofintelligence.de/research/researchprojects/project_21/) who are participating in this project.
+See also the list of [contributors](insert link) who are participating in this project.
 
 ## Contributing
 
@@ -31,4 +31,4 @@ Please read [CONTRIBUTING.md](https://github.com/vincejstraub/developing-explora
 
 ## License
 
-This project is yet to be made publicly available hence no license is included. 
+If using a shared private repository, explain that project is yet to be made publicly available hence no license is included otherwise include the license in a `.md` file.
