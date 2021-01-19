@@ -6,6 +6,9 @@ Description of files contained in repository.
 
 ## Installation and Setup
 
+* ...
+* ...
+
 If you are new to Git and GitHub, see [Getting started with GitHub](https://docs.github.com/en/github/getting-started-with-github) and [Using Git and GitHub for Team Collaboration](https://medium.com/anne-kerrs-blog/using-git-and-github-for-team-collaboration-e761e7c00281). 
 
 ## Getting Started
