@@ -22,7 +22,7 @@ Git can be used using a web interface or a command line; this document focues on
 
 The general workflow of GitHub is represented in the diagram below. The black arrows are the commands that can be directly inputted into a terminal:
 
-<img src="Images/git_workflow.png" height=200>
+<img src="images/git_workflow.png" height=200>
 
 Each of these commands will be outlined in more detail in the below summary of the 3 main steps that you will need to learn in order to start contributing to this repository:
 
@@ -46,7 +46,7 @@ Once you've added or modified files in a folder containing a git repo, git will 
 
 After creating the new file, you can use the `git status` command to see which files git knows exist.
 
-<img src="Images/git_status.jpg" height=300>
+<img src="images/git_status.jpg" height=300>
 
 What this basically says is, "Hey, we noticed you created a new file called hello_world.txt, but unless you use the 'git add' command we aren't going to do anything with it."
 
@@ -54,7 +54,7 @@ What this basically says is, "Hey, we noticed you created a new file called hell
 
 Once you've created/modified the file, you need to add it to the so-called staging environment, it is an environment for testing that exactly resembles a production environment (i.e. the repository before your change it made), using the `git add` command:
 
-<img src="Images/git_add.jpg" height=300>
+<img src="images/git_add.jpg" height=300>
 
 This command can be run with a number of [optional arguments](https://git-scm.com/docs/git-add). For instance, if you simply modify one or multiple files that are already being tracked and part of this repo, you should simply run `git add -u` (where `-u` is short for `--update`) which updates all files that are already being tracked but which you have updated. 
 
@@ -62,7 +62,7 @@ This command can be run with a number of [optional arguments](https://git-scm.co
 
 Next you need to commit the file. To do so run the command `git commit -m "Your message about the commit"`. 
 
-<img src="Images/git_commit.jpg" height=300>
+<img src="images/git_commit.jpg" height=300>
 
 The message at the end of the commit should be something related to what the commit contains. For instructions on commit messages, refer to the section on [writing a commit message](#writing-a-commit-message)
 
