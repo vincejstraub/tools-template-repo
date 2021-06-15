@@ -9,7 +9,7 @@ Description of files contained in repository.
 * ...
 * ...
 
-If you are new to Git and GitHub, see the [Git and Github user guide](https://github.com/vincejstraub/developing-exploration-behavior/new/master/Docs) (located in `Docs/`), written specifically for this project.
+If you are new to Git and GitHub, see the [Git and Github user guide](https://github.com/vincejstraub/tools-template-repository/blob/main/docs/github-user-guide.md) (located in `docs/`), written specifically for this project.
 
 ## Getting Started
 To start using the code and data in this repo:
