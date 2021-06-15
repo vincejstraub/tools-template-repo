@@ -1,6 +1,6 @@
 # Git and Github User Guide
 
-This user guide is specifically tailored to the suit the needs of those contributing code to `developing-exploration-behavior`. It aims to provides a succinct summary that ommits basic Git commands that you will likley not need for contributing to this project, hence it should not be used as a definitive reference for interacting with GitHub and Git more generally.
+This user guide is specifically tailored to the suit the needs of those contributing code to this repository. It aims to provides a succinct summary that ommits basic Git commands that you will likley not need for contributing to this project, hence it should not be used as a definitive reference for interacting with GitHub and Git more generally.
 
 ## What is GitHub?
 
